@@ -1,0 +1,11 @@
+unclassified:
+  globalLibraries:
+    libraries:
+      - name: "pipeline-library"
+        defaultVersion: "master"
+        implicit: true
+        retriever:
+          modernSCM:
+            scm:
+              git:
+                remote: "file:///Users/vmartinez/work/src/github.com/v1v/pipeline-library"
